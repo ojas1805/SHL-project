@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-8-new/",
+    "test_type": "K",
+    "description": "Java programming assessment for developers"
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/opq32r/",
+    "test_type": "P",
+    "description": "Personality assessment for workplace behavior"
+  },
+  {
+    "name": "General Ability Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/general-ability/",
+    "test_type": "A",
+    "description": "Measures cognitive ability and reasoning"
+  },
+  {
+    "name": "Python Coding Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/python/",
+    "test_type": "K",
+    "description": "Python programming assessment"
+  },
+  {
+    "name": "Situational Judgement Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/sjt/",
+    "test_type": "B",
+    "description": "Evaluates decision-making in workplace scenarios"
+  }
+]
