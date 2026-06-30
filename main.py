@@ -12,4 +12,6 @@ def health():
 
 @app.get("/chat")
 def chat(query: str):
-    return {"response": f"Recommended results for: {query}"}
+    return {
+        "response": f"Recommended results for: {query}"
+    }
